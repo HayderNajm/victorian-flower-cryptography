@@ -41,8 +41,11 @@ Main Menu:
 Enter your choice (1-6): 1
 
 ==================================================
+
 CREATE A SECRET MESSAGE BOUQUET
+
 ==================================================
+
 
 Enter your secret message: hi, Im hayder this is my first project on github
 
@@ -52,8 +55,10 @@ Key options:
 Enter your choice (1-2): 1
 
 ==================================================
+
 SECURE KEY GENERATION
 ==================================================
+
 Generated Key (hex): b0b9fb87a3fc0a835c4b
 Key Length: 80 bits
 Key Entropy: 80 bits (maximum for this key size)
@@ -180,6 +185,7 @@ Generated key (base64): sLn7h6P8CoNcSw==
 110. White Rose - Purity, innocence
 111. Zinnia - Thoughts of absent friends
 112. White Rose - Purity, innocence
+
 ========================================
 
 
